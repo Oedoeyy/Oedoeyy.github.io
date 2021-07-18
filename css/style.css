@@ -398,3 +398,18 @@ h5,
   -ms-user-select: none;
   user-select: none;
 }
+
+#contact {
+  background-color: #222227;
+}
+
+.cont_ct {
+  display: block;
+  width: auto;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: white;
+  text-align: left;
+  background-color: #222227;
+}
