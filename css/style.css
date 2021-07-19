@@ -413,3 +413,18 @@ h5,
   text-align: left;
   background-color: #222227;
 }
+
+#Game {
+  background-color: #1c1c1f;
+}
+
+.cont_gm {
+  display: block;
+  width: auto;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: white;
+  text-align: left;
+  background-color: #1c1c1f;
+}
